@@ -1,0 +1,6 @@
+{
+  "name": "AI Personal Expense Tracker – India",
+  "description": "Simple and beginner-friendly Indian personal expense and income tracker with UPI support, smart budget insights, and Indian Rupee formatting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
